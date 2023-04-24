@@ -10,4 +10,4 @@ In this repository, We will explain how exchange theme in android.
 
 
 
-[Click here to read medium artical](www.google.com)
+[Click here to read medium artical](https://medium.com/@mohammadjoumani/multi-theme-in-jetpack-compose-db2eb7d4d187)
