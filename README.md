@@ -9,7 +9,5 @@ In this repository, We will explain how exchange theme in android.
 </div>
 
 
-#### Follow Me:
-[LinkedIn](linkedin.com/in/mohammad-joumani-513443218)
 
 [Click here to read medium artical](www.google.com)
